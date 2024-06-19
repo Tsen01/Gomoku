@@ -456,14 +456,9 @@ public class Main extends JFrame implements ActionListener, MouseMotionListener,
     }
 
     public void mouseMoved(MouseEvent e) {}     // 滑鼠移動時
-
     public void mouseReleased(MouseEvent e) {}  // 滑鼠放開時
-
     public void mouseEntered(MouseEvent e) {}   // 滑鼠進入物件時
-
     public void mouseExited(MouseEvent e) {}    // 滑鼠離開物件時
-
     public void mouseDragged(MouseEvent e) {}   // 滑鼠拖動時
-
     public void mousePressed(MouseEvent e) {}   // 滑鼠按下時
 }
