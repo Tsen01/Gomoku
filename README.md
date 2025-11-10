@@ -4,14 +4,12 @@ This project is an enhanced version of a Java-based Gomoku (Five in a Row) game.
 The original version was developed by **Ping's notes** and shared on their website (link below).  
 This modified version adds new features and improves the gameplay experience while keeping the core mechanics intact.
 
----
 
 ## Original Source
 
 - **Author:** Ping's notes  
 - **Original Project:** [Java Gobang – Ping's notes](https://www.pinghenotes.com/java-program/Java-Gobang/)
 
----
 
 ## Original Version Features
 
@@ -22,7 +20,6 @@ This modified version adds new features and improves the gameplay experience whi
 | 3 | Win Display | Win message shown only in **TextArea** |
 | 4 | Bug | No draw message when the board is full |
 
----
 
 ## Updated Version Improvements
 
@@ -33,7 +30,6 @@ This modified version adds new features and improves the gameplay experience whi
 | 3 | Win Popup | A popup message announces the winner |
 | 4 | Draw Detection | When the board is full and no one wins, a draw message appears |
 
----
 
 ## Technologies Used
 
@@ -41,7 +37,6 @@ This modified version adds new features and improves the gameplay experience whi
 - **IDE:** IntelliJ IDEA / Eclipse  
 - **Libraries:** Java Swing (for GUI)
 
----
 
 ## License
 
