@@ -43,7 +43,3 @@ This modified version adds new features and improves the gameplay experience whi
 This project is for **educational and non-commercial use only**.  
 The original source code and concept belong to **Ping's notes**.  
 All modifications and added features in this version were made by **Tsen01**.  
-
----
-
-© 2025 Tsen01 & Pinghe Notes. All rights reserved.
